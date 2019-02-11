@@ -14,7 +14,7 @@ html,body{font-family:'S-CoreDream-6Bold',sans-serif;}
 .site_wrap{width:100%;height:auto;margin:auto;}
 .site_wrap .img_wrap{width:80vw;height:auto;margin:auto;}
 .site_wrap .img_wrap img{width:100%;}
-.site_wrap .text_wrap{width:100%;height:auto;background:#fafafa;padding:30px;font-size:16px;box-sizing:border-box;float:left;}
+.site_wrap .text_wrap{width:100%;height:auto;background:#fafafa;padding:30px;margin-top:-20px;font-size:16px;box-sizing:border-box;float:left;}
 .site_wrap .num{margin-bottom:40px;}
 .site_wrap h3{font-size:30px;margin-bottom:30px;}
 .site_wrap .button_wrap{margin-top:50px;}
