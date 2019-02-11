@@ -9,8 +9,11 @@ html,body{font-family:'S-CoreDream-6Bold',sans-serif;}
 .info h2{font-size:6vh;line-height:20vh;text-align:center;}
 .info h2 .name{font-size:10vh;color:#000000;margin-right:20px;}
 .info h2 .job{padding:20px;color:#ffffff;background:#ff9f1c;}
-.info p{width:70vw;margin:30px auto;font-size:3.4vh;word-break:keep-all;}
+.info p{width:70vw;margin:30px auto;font-size:3.4vh;text-align:center;word-break:keep-all;}
 .info p span{color:#2e6bd1;}
+@media screen and (max-width:500px){
+    .info h2 .name{display:block;margin-right:0px;}
+}
 .site_wrap{width:100%;height:auto;margin:auto;}
 .site_wrap .img_wrap{width:80vw;height:auto;margin:auto;}
 .site_wrap .img_wrap img{width:100%;}
