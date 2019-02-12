@@ -22,8 +22,10 @@ html,body{font-family:'S-CoreDream-6Bold',sans-serif;}
 .site_wrap h3{font-size:30px;margin-bottom:30px;}
 .site_wrap .button_wrap{margin-top:50px;}
 .site_wrap p{padding:5px 0px;}
-.site_wrap a{display:inline-block;padding:8px 14px;font-size:15px;color:#2e6bd1;border:2px solid #2e6bd1;}
-.site_wrap a:hover{color:#ffffff;background:#2e6bd1;}
+.site_wrap p a{font-size:15px;color:#2e6bd1;}
+.site_wrap p a:hover{color:#5a90ee;}
+.site_wrap .button_wrap a{display:inline-block;padding:8px 14px;font-size:15px;color:#2e6bd1;border:2px solid #2e6bd1;}
+.site_wrap .button_wrap a:hover{color:#ffffff;background:#2e6bd1;}
 .site_wrap.one{margin-top:50vh;}
 .site_wrap.two, .site_wrap.three{margin-top:30vh;}
 .old_wrap{width:100%;height:auto;margin:200px auto;}
